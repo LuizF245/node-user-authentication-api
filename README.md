@@ -26,7 +26,7 @@
 
 ---
 
-Feito com :heart: por **Apptivium Technologies :copyright: 2023** :rocket:
+<div align="center">Feito com :heart: por <b><a href="https://github.com/apptivium">Apptivium Technologies</a> :copyright: 2023**</b> :rocket:</div>
 
 <div align="center"><a href="#readme-top">:arrow_up: Voltar ao topo</a></div>
 
